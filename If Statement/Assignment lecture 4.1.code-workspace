@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../Assignment lecture 4.1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Logical Practical-2"
+		},
+		{
+			"path": "../Switch Case"
+		},
+		{
+			"path": "../without switch-case"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Assignment lecture 4.1"
+	}
+}
